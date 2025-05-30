@@ -10,7 +10,7 @@ This project involved the successful rollout and configuration of Microsoft Team
 - M365 Groups & Policy Management
 
 ## 🧩 Key Deliverables
-- Provisioned and licensed 10 new Microsoft 365 users.
+- Provisioned and licensed new Microsoft 365 users.
 - Created 5 departmental Teams (Sales, Executives, Tech Support, Developers, Customer Service).
 - Configured private and shared channels for secure and external collaboration.
 - Developed and assigned Teams policies: Calling, Messaging, Meeting, Caller ID, Audio Conferencing.
